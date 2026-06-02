@@ -1,5 +1,5 @@
 I am like solving DX and UX problems.
-You can find me at <athenacfr@gmail.com> and [Linkedin](https://www.linkedin.com/in/athenafreitas).
+You can find me at <me@athenabriana.com> and [Linkedin](https://www.linkedin.com/in/athenafreitas).
 
 ### Projects
 
