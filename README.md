@@ -3,6 +3,7 @@ You can find me at <me@athenabriana.com> and [Linkedin](https://www.linkedin.com
 
 ### Projects
 
+- **[builder-bundle](https://github.com/inspira-legal/builder-bundle)** — A Claude Code plugin built for e2e building, from product discover and design to code.
 - **[iara](https://github.com/inspira-legal/iara)** — An IDE built around claude code for multi-repo and worktree parallelization.
 - **[magia-api](https://github.com/athenacfr/magia-api)** — An opinated plug-n-play magical codegen built for REST and Graphql.
 
