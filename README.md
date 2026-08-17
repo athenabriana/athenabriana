@@ -1,4 +1,4 @@
-I am like solving DX and UX problems.
+I am like building stuff and solving DX and UX problems.
 You can find me at <me@athenabriana.com> and [Linkedin](https://www.linkedin.com/in/athenafreitas).
 
 ### Projects
